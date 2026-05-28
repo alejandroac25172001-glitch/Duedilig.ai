@@ -2,6 +2,8 @@
 
 > Due diligence automatizada de contratos colombianos con IA. Detecta en segundos si un contrato incluye la cláusula de autorización de datos personales para reporte a centrales de riesgo.
 
+**Repositorio:** https://github.com/alejandroac25172001-glitch/Duedilig.ai
+
 ---
 
 ## ¿Qué hace?
